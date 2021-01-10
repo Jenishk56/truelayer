@@ -1,6 +1,6 @@
 # Pokemon API
 
-- Covering the API(As expected) with automation and easier way to start the app.
+<b>Covering the API(As expected) with automation and easier way to start the app.</b>
 
 # Description
 I have created an app which provides the API for pokemon description in Shakespear's way. Tried to make it easier to use. Also, the framework is structured in a way that it could be scaled in future for multiple use.
