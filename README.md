@@ -28,12 +28,14 @@ I have covered the testcases ofcourse considering the TDD way of working. Covere
 
 While running the API, It would show the output something like 
 
-```{
+```
+{
   "description": "Charizard flies 'round the sky in search of powerful opponents. 't breathes fire of such most wondrous heat yond 't melts aught. However,  't nev'r turns its fiery breath on any opponent weaker than itself.",
   "name": "charizard"
-}```
+}
+```
 
-As per Pokemon api, for one pokemon name, there are many description available for english langaguge itself. I am <b> randomly picking<b> any of these and providing in output. The same output I am passing on Shakespear API and throwing that as a result of my pokemon API.
+- As per Pokemon api, for one pokemon name, there are many description available for english langaguge itself. I am <b> randomly picking<b> any of these and providing in output. The same output I am passing on Shakespear API and throwing that as a result of my pokemon API.
 
 # What i could have improved
 
