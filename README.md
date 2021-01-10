@@ -24,6 +24,19 @@ I have covered the testcases ofcourse considering the TDD way of working. Covere
 
 - I have made the port static `5000` for now. Go to browser and try `http://localhost:5000/pokemon/charizard/`
 
+<b>Second Approach to run (Without Docker)</b>
+
+Previously, I have tried to implement using the `pipenv` which i thought would be easier for the local enviornment. However, giving more thoughts to run through Docker, I finalised the above approach as my final approach. I have kept `Pipfile` and `Pipfile.lock` file in there for reference.
+
+If one wants to run that in their local enviornment without docker, Pipenv make the life easier to make it identical around different enviornments.
+Here is how, you can run
+
+```pipenv install```
+
+```pipenv run python -m flask run```
+
+```pipenv run python -m flask unittest```
+
 # About API
 
 While running the API, It would show the output something like 
