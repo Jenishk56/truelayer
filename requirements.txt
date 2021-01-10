@@ -1,0 +1,6 @@
+Flask
+marshmallow
+flasgger
+flask-marshmallow
+apispec
+requests
