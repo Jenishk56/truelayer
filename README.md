@@ -35,7 +35,7 @@ While running the API, It would show the output something like
 }
 ```
 
-- As per Pokemon api, for one pokemon name, there are many description available for english langaguge itself. I am <b> randomly picking<b> any of these and providing in output. The same output I am passing on Shakespear API and throwing that as a result of my pokemon API.
+- As per Pokemon api, for one pokemon name, there are many description available for english langaguge itself. I am <b>randomly picking</b> any of these and providing in output. The same output I am passing on Shakespear API and throwing that as a result of my pokemon API.
 
 # What i could have improved
 
